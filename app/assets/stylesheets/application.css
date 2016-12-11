@@ -1,0 +1,13 @@
+h1 {
+	color: blue;
+	text-align: center;
+}
+
+.greenlist {
+	color: green;
+	text-align: left;
+}
+
+#id redlist {
+	color: red;
+}
